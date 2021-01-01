@@ -1,9 +1,9 @@
 /**
  * Automatically adjust the height of the `<textarea>` element according to the input content.
  *
- * @version 1.0.0
+ * @version 1.0.1
  */
-export default class TextareaHeightAdjust extends HTMLTextAreaElement {
+export default class TextareaAutoheight extends HTMLTextAreaElement {
     #private;
     constructor();
     connectedCallback(): void;

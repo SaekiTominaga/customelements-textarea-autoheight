@@ -1,1 +1,1 @@
-{"version":3,"file":"TextareaAutoHeight.esm.d.ts","sourceRoot":"","sources":["../src/TextareaAutoHeight.esm.ts"],"names":[],"mappings":"AAAA;;;;GAIG;AACH,MAAM,CAAC,OAAO,OAAO,oBAAqB,SAAQ,mBAAmB;;;IASpE,iBAAiB,IAAI,IAAI;IAKzB,oBAAoB,IAAI,IAAI;IAI5B;;OAEG;IACH,OAAO,CAAC,WAAW;CA8CnB"}
+{"version":3,"file":"TextareaAutoHeight.esm.d.ts","sourceRoot":"","sources":["../src/TextareaAutoHeight.esm.ts"],"names":[],"mappings":"AAAA;;;;GAIG;AACH,MAAM,CAAC,OAAO,OAAO,kBAAmB,SAAQ,mBAAmB;;;IASlE,iBAAiB,IAAI,IAAI;IAKzB,oBAAoB,IAAI,IAAI;IAI5B;;OAEG;IACH,OAAO,CAAC,WAAW;CA8CnB"}
