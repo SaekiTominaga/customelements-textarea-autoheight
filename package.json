@@ -1,6 +1,6 @@
 {
 	"name": "@saekitominaga/customelements-textarea-autoheight",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Automatically adjust the height of the `<textarea>` element by Custom Elements.",
 	"type": "module",
 	"devDependencies": {
