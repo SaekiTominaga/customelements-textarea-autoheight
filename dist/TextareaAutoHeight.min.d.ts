@@ -13,4 +13,4 @@ export default class TextareaAutoheight extends HTMLTextAreaElement {
      */
     private _inputEvent;
 }
-//# sourceMappingURL=TextareaAutoHeight.esm.d.ts.map
+//# sourceMappingURL=TextareaAutoHeight.d.ts.map

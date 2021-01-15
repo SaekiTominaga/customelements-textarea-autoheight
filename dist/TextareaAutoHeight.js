@@ -75,3 +75,4 @@ export default class TextareaAutoheight extends HTMLTextAreaElement {
     }
 }
 _supportCSSTypedOM = new WeakMap();
+//# sourceMappingURL=TextareaAutoHeight.js.map
