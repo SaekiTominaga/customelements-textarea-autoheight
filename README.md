@@ -10,6 +10,6 @@ Automatically adjust the height of the `<textarea>` element according to the inp
 
 ## Examples
 
-```
+```HTML
 <textarea is="x-textarea-autoheight"></textarea>
 ```
