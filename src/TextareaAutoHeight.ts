@@ -1,7 +1,5 @@
 /**
  * Automatically adjust the height of the `<textarea>` element according to the input content.
- *
- * @version 1.0.1
  */
 export default class TextareaAutoheight extends HTMLTextAreaElement {
 	#supportCSSTypedOM: boolean; // CSS Typed Object Model に対応しているか https://caniuse.com/mdn-api_element_attributestylemap

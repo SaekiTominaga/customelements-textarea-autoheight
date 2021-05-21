@@ -14,8 +14,6 @@ var __classPrivateFieldGet = (this && this.__classPrivateFieldGet) || function (
 var _supportCSSTypedOM;
 /**
  * Automatically adjust the height of the `<textarea>` element according to the input content.
- *
- * @version 1.0.1
  */
 export default class TextareaAutoheight extends HTMLTextAreaElement {
     constructor() {
